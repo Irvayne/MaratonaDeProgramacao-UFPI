@@ -1,0 +1,21 @@
+#logo #imgId
+{
+	position: relative;
+	margin-top: -21px !important;
+}
+
+.nav-menu #linkInscricao
+{
+	background:white !important;
+	margin-top: -5px;
+	padding-top: 5px;
+}
+
+	.nav-menu #linkInscricao a{ color:#2dc997 !important; font-weight: bold; }
+	
+	
+#btnEnviarMensagem
+{
+	cursor: pointer !important;
+}
+	
